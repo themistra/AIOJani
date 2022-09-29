@@ -1,6 +1,7 @@
 {
     "version": {
         "number": "0.0.1",
+	"lastnumber": "0.0.2",
 	"notes": ["Application Desing Fix", "Add New Tool"]
 
     }
